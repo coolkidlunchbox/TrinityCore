@@ -25,7 +25,7 @@ class RegularGrid2D
 public:
 
     enum{
-        CELL_NUMBER = 64,
+        CELL_NUMBER = 65,
     };
 
     #define HGRID_MAP_SIZE  (533.33333f * 64.f)     // shouldn't be changed
